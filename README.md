@@ -2,11 +2,11 @@
 
 ### 🚀 About me
 
-I am a software Engineering lover :heart: that actively tries to improve his skills.
+I am a Software Engineering lover :heart: and a Data science 👨‍🔬 enthusiast.
 
 
 Things i get my self involved into:
-- :art: UI/UX Design
+- :robot: Artificial Intelligence and robotics
 - :computer: Web development
 - :telescope: Star gazing
 - :test_tube: Testing out new stuff
