@@ -2,7 +2,7 @@
 
 ## 🚀 About me
 
-I am a Software Engineering lover :heart: and a Data science 👨‍🔬 enthusiast.
+I am a Software Engineering lover :heart: and a AI 👨‍🔬 enthusiast.
 
 
 Things i get my self involved into:
