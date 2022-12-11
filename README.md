@@ -13,17 +13,17 @@ Things i get my self involved into:
 
 <br />
 
-## :computer: Programming languages and tools i usually work with: 
+## :computer: Programming languages and tools i work with: 
 <p>
 <span><img width="20%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></span>
 <span><img width="20%" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit learn"></span>
 <span><img width="20%" src="https://matplotlib.org/_static/logo2_compressed.svg" alt="matplotlib"></span>
 <span><img width="20%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="jupyter notebooks"></span>
 <br />
-<span><img width="20%" src="https://svelte.dev/svelte-logo-horizontal.svg" alt="svelte"></span>
+<span><img width="20%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="nodejs"></span>
 <span><img width="20%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="vuejs"></span>
-<span><img width="20%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></span>
-<span><img width="20%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></span>
+<span><img width="20%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></span>
+<span><img width="20%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></span>
 </p>
 
 <br />
