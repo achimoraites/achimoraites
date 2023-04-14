@@ -22,7 +22,7 @@ Things i get my self involved into:
 <br />
 <span><img width="20%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="nodejs"></span>
 <span><img width="20%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="vuejs"></span>
-<span><img width="20%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></span>
+<span><img width="10%" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/f6a6e6700055097b01b6a8a912fb60c0087a724c/icons/file_type_cpp3.svg"></span>
 <span><img width="20%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></span>
 </p>
 
