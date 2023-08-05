@@ -6,18 +6,9 @@ A Software Engineer on a Machine Learning Quest
 I'm a passionate Software Engineer with a deep love for Artificial Intelligence. I'm always eager to dive into new technologies and explore the cosmos of coding.
 
 Here's a glimpse into my interests:
-- 🤖 Dabbling in Artificial Intelligence and Robotics
+- 🤖 Dabbling in Artificial Intelligence
 - 💻 Crafting web applications
 - 🧪 Experimenting with new technologies and tools
-
-<br />
-
-## 🛠️ Projects I've Worked On
-Here are some of the projects I've worked on. Feel free to check them out!
-
-1.  [Image Classifier](https://github.com/achimoraites/image-classifier): A project where you can build and train an image classifier using multiple Neural Network architectures and make predictions using it.
-2.  [Semantic Q&A System](https://github.com/achimoraites/semantic-qa-system): A simple question and answering system with semantic search. This project leverages Natural Language Processing (NLP) techniques to understand and answer questions semantically.
-3.  [Simple Python Image Converter](https://github.com/achimoraites/simple-python-image-converter): A tool for quick batch conversions of images.
 
 <br />
 
@@ -36,15 +27,18 @@ Here are some of the projects I've worked on. Feel free to check them out!
 
 <br />
 
-## ✨ My Open Source Contributions
-- [Deck deck go](https://github.com/deckgo/deckdeckgo)
+## 🛠️ Projects I've Worked On
+Here are some of the projects I've worked on. Feel free to check them out!
+
+1.  [Image Classifier](https://github.com/achimoraites/image-classifier): A project where you can build and train an image classifier using multiple Neural Network architectures and make predictions using it.
+2.  [Semantic Q&A System](https://github.com/achimoraites/semantic-qa-system): A simple question and answering system with semantic search. This project leverages Natural Language Processing (NLP) techniques to understand and answer questions semantically.
+3.  [Simple Python Image Converter](https://github.com/achimoraites/simple-python-image-converter): A tool for quick batch conversions of images.
 
 <br />
 
 
 
-## 📈 My Github Stats
-<img width="90%" align="left" src="https://github-readme-stats.vercel.app/api?username=achimoraites&count_private=true&show_icons=true&theme=tokyonight" />
+
 
 <!--
 **achimoraites/achimoraites** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
