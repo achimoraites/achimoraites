@@ -30,9 +30,9 @@ Here's a glimpse into my interests:
 ## 🛠️ Projects I've Worked On
 Here are some of the projects I've worked on. Feel free to check them out!
 
-1.  [Image Classifier](https://github.com/achimoraites/image-classifier): A project where you can build and train an image classifier using multiple Neural Network architectures and make predictions using it.
-2.  [Semantic Q&A System](https://github.com/achimoraites/semantic-qa-system): A simple question and answering system with semantic search. This project leverages Natural Language Processing (NLP) techniques to understand and answer questions semantically.
-3.  [Simple Python Image Converter](https://github.com/achimoraites/simple-python-image-converter): A tool for quick batch conversions of images.
+1.  [Image Classifier](https://github.com/achimoraites/pytorch-image-classifier): A project where you can build and train an image classifier using multiple Neural Network architectures and make predictions using it.
+2.  [Semantic Q&A System](https://github.com/achimoraites/simple-question-answering-ml-system): A simple question and answering system with semantic search. This project leverages Natural Language Processing (NLP) techniques to understand and answer questions semantically.
+3.  [Python Image Converter](https://github.com/achimoraites/Python-Image-Converter): A tool for quick batch conversions of images.
 
 <br />
 
