@@ -12,21 +12,6 @@ Here's a glimpse into my interests:
 
 <br />
 
-## 💻 My Tech Stack: 
-<p>
-<span><img width="20%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></span>
-<span><img width="20%" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit learn"></span>
-<span><img width="20%" src="https://matplotlib.org/_static/logo2_compressed.svg" alt="matplotlib"></span>
-<span><img width="20%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="jupyter notebooks"></span>
-<br />
-<span><img width="20%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="nodejs"></span>
-<span><img width="20%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="vuejs"></span>
-<span><img width="10%" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/f6a6e6700055097b01b6a8a912fb60c0087a724c/icons/file_type_cpp3.svg"></span>
-<span><img width="20%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></span>
-</p>
-
-<br />
-
 ## 🛠️ Projects I've Worked On
 Here are some of the projects I've worked on. Feel free to check them out!
 
